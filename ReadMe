@@ -1,0 +1,20 @@
+​🛡️ PMFX V8H-CORE: The 5-Khunpon AI Ecosystem
+​V8H-CORE is a professional-grade automated trading framework developed by PMFX TRADING COMPANY. This system integrates advanced quantitative analysis, institutional order flow tracking, and AI-driven sentiment processing to navigate the XAUUSD (Gold) market with high precision.
+​🌌 Project Concept: The 5-Khunpon Synergy
+​The system operates through the coordination of five specialized AI modules, designed to eliminate human bias and manage extreme market volatility. 
+​V8H-CORE (The Engine): High-performance execution and signal generation.
+​MZ-CORE (The Maestro): Dynamic market zoning and structural analysis. 
+​DP-CORE (The Oracle): Dark Pool and institutional volume tracking. 
+​TM-CORE (The Compass): Multi-timeframe trend and phase recognition. 
+​SM-CORE (The Sentinel): Real-time sentiment analysis with Priced-in/Decay logic.
+​🧠 Key Intelligence: Seven-Core Interface
+​All modules are unified under the Seven-Core Interface, a sophisticated decision-making gateway that applies deep learning models (.h5) to evaluate trade clearance. 
+​Adaptive Risk Management: Automatic volume scaling based on real-time equity growth (e.g., reducing exposure by 50-80% upon hitting profit targets). 
+​Behavioral Logging: Systematic capture of over 1,200 data ticks per cycle for continuous AI training and reinforcement learning. 
+​Sentiment Fatigue Logic: Advanced memory processing to filter out repetitive news impact and "fake news" spikes.
+​🛠️ Repository Structure
+​seven_interface.py: The unified gateway connecting all AI generals.
+​training_pipeline.py: Automated deep learning training workflow for brain models.
+​feature_set_core.py: Mathematical definitions for multi-khunpon feature extraction.
+​run_backtest.py: High-fidelity backtesting environment for historical validation.
+​Disclaimer: This repository contains the architecture and interface definitions for the PMFX V8H-CORE system. Core proprietary logic, trained weights, and private configuration files are excluded for security purposes.
